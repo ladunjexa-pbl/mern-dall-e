@@ -4,7 +4,6 @@ import { useNavigate } from "react-router-dom";
 import { preview } from "../assets";
 import { getRandomPrompt } from "../utils";
 import { FormField, Loader } from "../components";
-import PostSchema from "../../../server/mongodb/models/post.js";
 
 const createPost = () => {
   const navigate = useNavigate();
