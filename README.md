@@ -33,7 +33,7 @@
 </p>
    
  <h4>
-    <a href="https://zen-ai-gpt-dall-e.vercel.app/">View Demo</a>
+    <a href="https://dall-e-mern-app.vercel.app/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/ladunjexa/DALL-E-MERN-App">Documentation</a>
   <span> · </span>
